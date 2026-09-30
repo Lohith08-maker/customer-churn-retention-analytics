@@ -57,7 +57,7 @@ A Python/Pandas portfolio project analyzing customer churn patterns in the **IBM
 - `README.md` — methodology, results and business interpretation
 
 ## Dashboard / Visual Preview
-> A visual summary will be added here to make the key churn patterns easier to review at a glance.
+![Customer Churn & Retention Analytics Visual](./customer_churn_visual_preview%20(1).png)
 
 ## Portfolio Note
 This is a self-initiated analytics portfolio project using the public IBM Telco Customer Churn dataset. Reported segment differences are descriptive associations, not causal claims.
